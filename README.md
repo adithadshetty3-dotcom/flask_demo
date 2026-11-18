@@ -4,3 +4,9 @@ create virtual env: python3 -m venv env
 to activate env: source env/bin/activate
 pip install flask
 run file: python3 app.py
+
+static: remains same in all webpages
+dynamic: changes in all webpages
+
+jinja , used by flask in backend
+rendering 
